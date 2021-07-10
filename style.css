@@ -1,0 +1,51 @@
+#heading{
+    font-family: 'Fredoka One', cursive;
+}
+
+body{
+    background-size: cover;
+}
+
+.buttons{
+    background-color: lemonchiffon;
+    width: 30%;
+    font-size: 29;
+    font-family: 'Itim', cursive;
+    padding: 5px;
+    box-shadow: 5px 5px 5px lightseagreen;
+    border-radius: 2px;
+    }
+
+#img{
+    width: 30px;
+    height: 30px;
+
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+font-family: 'Fredoka One', cursive;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    border: 5px black solid;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px lightblue;
+    margin-top: 30px;
+}
+a{
+    color: black;
+}
